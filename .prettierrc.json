@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "useTabs": false,
+  "trailingComma": "none",
+  "printWidth": 80,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "extends": [
+    "plugin:prettier/recommended",
+    "prettier/flowtype",
+    "prettier/react"
+  ]
+}
